@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>rum/target/qt-exp.js</file>
+    </qresource>
+</RCC>
